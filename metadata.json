@@ -1,0 +1,6 @@
+{
+  "name": "Tour Caddy & Yardage Book",
+  "description": "A professional tour caddy and yardage book application optimized for Upstate South Carolina. It calculates exact shot distances, clubs, swings, aim lines, and risk factors across tee, approach, short game, and putting scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
