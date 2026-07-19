@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./dist/assets/index-BrmO9JRG.js","./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/CaddyHeader.tsx","./src/components/CaddyOutput.tsx","./src/components/ClubStatsPanel.tsx","./src/components/ShotCalculator.tsx","./src/components/TrajectoryChart.tsx","./src/data/clubs.ts","./src/utils/caddyEngine.ts"],"version":"5.8.3"}
